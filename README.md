@@ -1,5 +1,12 @@
-## Hi there 👋
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
 
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ola!+Eu+sou+o+Dev;Full+Stack+Developer;Apaixonado+por+Café+e+Código)](https://git.io/typing-svg)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <!--
 **CauanGS/CauanGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
