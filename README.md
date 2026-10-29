@@ -1,24 +1,48 @@
-<!--
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+# Olá, eu sou o Cauan 👋
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
+Desenvolvedor de software, com foco em **backend** e pesquisa aplicada a **aprendizado de máquina**.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ola!+Eu+sou+o+Dev;Full+Stack+Developer;Apaixonado+por+Café+e+Código)](https://git.io/typing-svg)
+- 🎓 Bacharelando em Ciência da Computação na **UNESP** (Rio Claro, conclusão prevista em dez/2026)
+- 💼 Estagiário de Engenharia de Software no **iFood** — backend Java/Spring Boot, catálogo e serviços
+- 🔐 Experiência anterior na **DataClimate** com autenticação, autorização e auditoria
+- 📄 Primeiro autor em artigo publicado na **CISTI 2026** (Springer LNCS)
+- 📍 Rio Claro, SP — disponível para mudança
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## 🛠 Stack
 
-**CauanGS/CauanGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend:** Java · Spring Boot · Python · FastAPI · Node.js · SQL
+**Dados e infra:** PostgreSQL · AWS (S3) · Kafka · Docker · Kubernetes · Elasticsearch
+**Segurança:** RBAC · autenticação e sessão · rate limiting
+**IA/ML:** PyTorch · scikit-learn · RAG
+**Frontend:** TypeScript · React · Next.js · Tailwind CSS · Prisma
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+
+### 🏆 Hackathon CAF 2025 — Projeto vencedor
+Classificação de peças por foto com visão computacional (ResNet18, ~90% de acurácia) integrada a um chatbot que conduz a compra e transfere para atendimento humano em caso de baixa confiança.
+→ [Hackaton-CAF](https://github.com/CauanGS/Hackaton-CAF)
+
+### 🎥 Detecção de queda em idosos por vídeo
+Pipeline de visão computacional com ResNet18 + LSTM para classificação temporal de vídeos, com rotulagem por sobreposição e balanceamento de classes.
+→ [Deteccao-de-Queda-em-Idosos](https://github.com/SanchesPinto/Deteccao-de-Queda-em-Idosos)
+
+---
+
+## 📄 Pesquisa
+
+**Weighted Multi-Measure Ranking for Associative Classifiers** (CISTI 2026, Springer LNCS)
+Primeiro autor do método **AC.RankAW**, extensão ponderada do AC.RankA para ranqueamento de regras em classificadores associativos. Avaliado em 43 datasets e 156 configurações, com testes de Friedman e Nemenyi.
+
+Também sou coautor de um estudo sobre recuperação de informação clínica, medindo o efeito de expansão de consulta (RM3) e re-ranqueamento neural em ensaios clínicos do TREC-CT 2021.
+
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cauangs-blue?style=flat&logo=linkedin)](https://linkedin.com/in/cauangs)
+[![GitHub](https://img.shields.io/badge/GitHub-CauanGS-black?style=flat&logo=github)](https://github.com/CauanGS)
+[![Email](https://img.shields.io/badge/Email-cauangabrieldesouza%40gmail.com-red?style=flat&logo=gmail)](mailto:cauangabrieldesouza@gmail.com)
